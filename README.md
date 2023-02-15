@@ -1,7 +1,7 @@
 ## Olá, eu sou Yago Campos!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klarastephany&show_icons=true&theme=radical&include_all_commits=true&count_private=true")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klarastephany&layout=compact&langs_count=16&theme=radical)](https://github.com/klarastephany/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagocamposrj&show_icons=true&theme=radical&include_all_commits=true&count_private=true")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagocamposrj&layout=compact&langs_count=16&theme=radical)](https://github.com/yagocamposrj/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
